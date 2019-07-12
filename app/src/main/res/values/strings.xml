@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Parstagram</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_grid_fragment">GridFragment</string>
+    <string name="action_settings">Settings</string>
+</resources>
